@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lister", "Lister.csproj", "{AC737E48-6138-49AC-AAFC-AD9A6F2C26D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC737E48-6138-49AC-AAFC-AD9A6F2C26D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC737E48-6138-49AC-AAFC-AD9A6F2C26D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC737E48-6138-49AC-AAFC-AD9A6F2C26D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC737E48-6138-49AC-AAFC-AD9A6F2C26D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {344DB95A-313E-4478-882F-E3A1FD39FB82}
+	EndGlobalSection
+EndGlobal
